@@ -12,6 +12,10 @@
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
+## CMake
+
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+
 ## Операционные системы
 
 - [Блог Many But Finite](https://manybutfinite.com/best-of/): цикл статей про внутреннее устройство разных процессов компьютера
