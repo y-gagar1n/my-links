@@ -3,6 +3,7 @@
 ## Архитектура
 
 - [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/company/yandex/blog/442762/)
+- [Семантика exactly-once в Apache Kafka](https://habr.com/ru/company/badoo/blog/333046/)
 
 ## Девопс
 
