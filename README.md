@@ -17,6 +17,10 @@
 
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
+## SQL
+
+- [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/post/448072/)
+
 ## Операционные системы
 
 - [Блог Many But Finite](https://manybutfinite.com/best-of/): цикл статей про внутреннее устройство разных процессов компьютера
@@ -24,6 +28,7 @@
 ### Linux
 
 - [The Linux Kernel](https://www.tldp.org/LDP/tlk/tlk-toc.html)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/single/bgnet.html)
 
 ## Awesome Lists
 
