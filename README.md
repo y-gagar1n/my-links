@@ -19,6 +19,10 @@
 
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 
+## Docker
+
+- [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/#ok-so-what-actually-works)
+
 ## SQL
 
 - [Понимание джойнов сломано. Это точно не пересечение кругов, честно](https://habr.com/ru/post/448072/)
