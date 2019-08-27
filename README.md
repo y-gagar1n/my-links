@@ -49,3 +49,7 @@
 - [Блог Феликса: Любопытные книги](https://felixit.blog/nicetoread/)
 - [Epic thread books (художественные)](https://avegera.github.io/epic-thread/rodoss/books.html)
 - [70 книг для развития Soft skills](https://ppc.world/articles/70-knig-dlya-razvitiya-soft-skills/)
+
+## Разное
+
+- [Writing system software: code comments.](http://antirez.com/news/124)
