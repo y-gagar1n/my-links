@@ -23,6 +23,7 @@
 ## Docker
 
 - [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/#ok-so-what-actually-works)
+- [The Missing Introduction To Containerization](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5)
 
 ## SQL
 
