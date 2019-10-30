@@ -6,10 +6,6 @@
 - [Семантика exactly-once в Apache Kafka](https://habr.com/ru/company/badoo/blog/333046/)
 - [Развитие баз данных в Dropbox. Путь от одной глобальной базы MySQL к тысячам серверов](https://habr.com/ru/company/oleg-bunin/blog/417315/)
 
-## Девопс
-
-- [The Missing Introduction To Containerization](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5)
-
 ## C++
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
