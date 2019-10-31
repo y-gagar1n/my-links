@@ -11,6 +11,7 @@
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [Dynamic relocs, runtime overflows and -fPIC](https://www.collabora.com/about-us/blog/2014/10/01/dynamic-relocs,-runtime-overflows-and-fpic/)
 - [The magic behind configure, make, make install](https://thoughtbot.com/blog/the-magic-behind-configure-make-make-install)
+- [Асинхронность в программировании](https://habr.com/ru/company/jugru/blog/446562/)
 
 ## CMake
 
