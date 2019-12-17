@@ -55,3 +55,4 @@
 
 - [Writing system software: code comments.](http://antirez.com/news/124)
 - [52 вопроса, которые вы должны задать на собеседовании](https://habr.com/ru/company/icanchoose/blog/291790/)
+- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
