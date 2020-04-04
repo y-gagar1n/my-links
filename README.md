@@ -6,6 +6,10 @@
 - [Семантика exactly-once в Apache Kafka](https://habr.com/ru/company/badoo/blog/333046/)
 - [Развитие баз данных в Dropbox. Путь от одной глобальной базы MySQL к тысячам серверов](https://habr.com/ru/company/oleg-bunin/blog/417315/)
 
+## Multithreading
+
+- [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation)
+
 ## C++
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
