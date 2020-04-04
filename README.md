@@ -11,6 +11,7 @@
 - [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation)
 - [The Happens-Before Relation](https://preshing.com/20130702/the-happens-before-relation/)
 - [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)
+- [C++ and the Perils of Double-Checked Locking](https://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf)
 
 ## C++
 
