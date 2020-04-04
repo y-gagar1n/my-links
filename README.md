@@ -9,6 +9,7 @@
 ## Multithreading
 
 - [The Synchronizes-With Relation](https://preshing.com/20130823/the-synchronizes-with-relation)
+- [The Happens-Before Relation](https://preshing.com/20130702/the-happens-before-relation/)
 
 ## C++
 
