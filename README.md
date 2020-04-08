@@ -17,6 +17,10 @@
 - [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)
 - [C++ and the Perils of Double-Checked Locking](https://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf)
 
+## Android
+
+- [Android Interpolators](http://cogitolearning.co.uk/2013/10/android-animations-tutorial-5-more-on-interpolators/)
+
 ## C++
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
