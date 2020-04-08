@@ -50,6 +50,7 @@
 - [Kernel analysis with bpftrace](https://lwn.net/SubscriberLink/793749/a5a7c5282076c094/)
 - [Beginner's Guide To Linkers](http://www.lurklurk.org/linkers/linkers.html)
 - [Linux Performance materials](http://www.brendangregg.com/linuxperf.html)
+- [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 
 ## Awesome Lists
 
