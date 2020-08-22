@@ -18,6 +18,10 @@
 - [This Is Why They Call It a Weakly-Ordered CPU](https://preshing.com/20121019/this-is-why-they-call-it-a-weakly-ordered-cpu/)
 - [C++ and the Perils of Double-Checked Locking](https://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf)
 
+## CPU
+
+- [Where the top of the stack is on x86] https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86
+
 ## Android
 
 - [Android Interpolators](http://cogitolearning.co.uk/2013/10/android-animations-tutorial-5-more-on-interpolators/)
